@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\Users\Sedat\Qsync\Günsel\PDU Design\PDU_PCB Project\PDU_PCB 11.04.2019.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00

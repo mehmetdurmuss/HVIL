@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=GND Pin=P1-3
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Net: Name=GND
+Added Room: Name=PDU_PCB Sch

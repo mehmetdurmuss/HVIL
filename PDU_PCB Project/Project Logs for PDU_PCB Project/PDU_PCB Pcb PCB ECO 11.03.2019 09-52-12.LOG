@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetJ1_2 Pin=J2-1
+Removed Pin From Net: NetName=NetJ1_1 Pin=P?-5
+Added Pin To Net: NetName=NetJ1_1 Pin=J2-2
+Added Pin To Net: NetName=NetJ1_2 Pin=P?-5
+Added Room: Name=PDU_PCB Sch

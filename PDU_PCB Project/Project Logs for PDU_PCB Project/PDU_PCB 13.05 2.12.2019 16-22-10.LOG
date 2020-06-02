@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=GND Pin=J1-
+Removed Pin From Net: NetName=GND Pin=J1-
+Removed Pin From Net: NetName=GND Pin=J2-
+Removed Pin From Net: NetName=GND Pin=J2-
+Removed Pin From Net: NetName=GND Pin=J3-
+Removed Pin From Net: NetName=GND Pin=J3-
+Removed Pin From Net: NetName=GND Pin=J4-
+Removed Pin From Net: NetName=GND Pin=J4-
+Removed Pin From Net: NetName=GND Pin=J5-
+Removed Pin From Net: NetName=GND Pin=J5-
+Removed Pin From Net: NetName=GND Pin=J6-
+Removed Pin From Net: NetName=GND Pin=J6-
+Removed Pin From Net: NetName=GND Pin=J7-
+Removed Pin From Net: NetName=GND Pin=J7-
+Removed Pin From Net: NetName=GND Pin=J8-
+Removed Pin From Net: NetName=GND Pin=J8-
+Added Component: Designator=H1(TE-1379684-1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "TE-HEADER ASSY,8w .025 SERIES, R."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.te.com/usa-en/product-1379684-1.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser-Automotive Connectors HEADER ASSY 8w .025 SERIES R. ANGLE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/TE-Connectivity/1379684-1?qs=GQ3BsEl46pnfvp5%2F0fNBmw=="; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=H1-3
+Added Pin To Net: NetName=GND Pin=H1-4
+Added Pin To Net: NetName=NetH1_1 Pin=H1-1
+Added Pin To Net: NetName=NetH1_1 Pin=J1-2
+Added Net: Name=NetH1_1
+Added Pin To Net: NetName=NetH1_2 Pin=H1-2
+Added Pin To Net: NetName=NetH1_2 Pin=J6-1
+Added Net: Name=NetH1_2
+Added Pin To Net: NetName=NetH1_5 Pin=H1-5
+Added Pin To Net: NetName=NetH1_5 Pin=J8-1
+Added Net: Name=NetH1_5
+Added Pin To Net: NetName=NetH1_6 Pin=H1-6
+Added Pin To Net: NetName=NetH1_6 Pin=J8-2
+Added Net: Name=NetH1_6
+Added Pin To Net: NetName=NetH1_7 Pin=H1-7
+Added Pin To Net: NetName=NetH1_7 Pin=J7-1
+Added Net: Name=NetH1_7
+Added Pin To Net: NetName=NetH1_8 Pin=H1-8
+Added Pin To Net: NetName=NetH1_8 Pin=J7-2
+Added Net: Name=NetH1_8
+Added Member To Class: ClassName=PDU_PCB Sch Member=Component H1 TE-1379684-1
+Added Room: Name=PDU_PCB Sch
